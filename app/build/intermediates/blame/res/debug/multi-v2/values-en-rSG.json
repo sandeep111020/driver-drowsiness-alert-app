@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "F:\\Driver-Drowsiness\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rSG\\values-en-rSG.xml",
+            "outputFile": "C:\\Users\\sandeep\\AndroidStudioProjects\\driver-drowsiness-alertapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rSG\\values-en-rSG.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Nandkishor\\.gradle\\caches\\transforms-2\\files-2.1\\c09b968d925b55dc67c38c937c158cfe\\play-services-wallet-9.4.0\\res\\values-en-rSG\\values.xml",
+                    "source": "C:\\Users\\sandeep\\.gradle\\caches\\transforms-2\\files-2.1\\c09b968d925b55dc67c38c937c158cfe\\play-services-wallet-9.4.0\\res\\values-en-rSG\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "4",

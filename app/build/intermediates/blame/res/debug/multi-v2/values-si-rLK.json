@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "F:\\Driver-Drowsiness\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-si-rLK\\values-si-rLK.xml",
+            "outputFile": "C:\\Users\\sandeep\\AndroidStudioProjects\\driver-drowsiness-alertapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-si-rLK\\values-si-rLK.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Nandkishor\\.gradle\\caches\\transforms-2\\files-2.1\\b94212bf736ef5473d06d63cf9d7e4e2\\mediarouter-v7-23.0.0\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "source": "C:\\Users\\sandeep\\.gradle\\caches\\transforms-2\\files-2.1\\b94212bf736ef5473d06d63cf9d7e4e2\\mediarouter-v7-23.0.0\\res\\values-si-rLK\\values-si-rLK.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Nandkishor\\.gradle\\caches\\transforms-2\\files-2.1\\7e49706f68e5f618f8958dc595258a99\\appcompat-v7-23.4.0\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "source": "C:\\Users\\sandeep\\.gradle\\caches\\transforms-2\\files-2.1\\7e49706f68e5f618f8958dc595258a99\\appcompat-v7-23.4.0\\res\\values-si-rLK\\values-si-rLK.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

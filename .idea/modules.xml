@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Driver-Drowsiness.iml" filepath="$PROJECT_DIR$/Driver-Drowsiness.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/driver-drowsiness-alertapp.iml" filepath="$PROJECT_DIR$/.idea/modules/driver-drowsiness-alertapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/driver-drowsiness-alertapp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/driver-drowsiness-alertapp.app.iml" />
     </modules>
   </component>
 </project>

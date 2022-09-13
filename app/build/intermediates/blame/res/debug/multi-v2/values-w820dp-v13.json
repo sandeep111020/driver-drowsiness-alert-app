@@ -1,16 +1,16 @@
 {
     "logs": [
         {
-            "outputFile": "F:\\Driver-Drowsiness\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+            "outputFile": "C:\\Users\\sandeep\\AndroidStudioProjects\\driver-drowsiness-alertapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
             "map": [
                 {
-                    "source": "F:\\Driver-Drowsiness\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "source": "C:\\Users\\sandeep\\AndroidStudioProjects\\driver-drowsiness-alertapp\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "4",
-                        "startOffsets": "291",
+                        "startOffsets": "295",
                         "endColumns": "57",
-                        "endOffsets": "344"
+                        "endOffsets": "348"
                     },
                     "to": {
                         "startLines": "2",
@@ -21,13 +21,13 @@
                     }
                 },
                 {
-                    "source": "F:\\Driver-Drowsiness\\app\\src\\main\\res\\values-w820dp\\strings.xml",
+                    "source": "C:\\Users\\sandeep\\AndroidStudioProjects\\driver-drowsiness-alertapp\\app\\src\\main\\res\\values-w820dp\\strings.xml",
                     "from": {
                         "startLines": "4,5,7,6,2,8,3",
                         "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "253,330,435,368,55,471,98",
+                        "startOffsets": "257,335,442,374,57,479,101",
                         "endColumns": "76,37,35,66,42,59,154",
-                        "endOffsets": "325,363,466,430,93,526,248"
+                        "endOffsets": "329,368,473,436,95,534,251"
                     },
                     "to": {
                         "startLines": "3,4,5,6,7,8,9",

@@ -1,2 +1,2 @@
-# Referenced at F:\Driver-Drowsiness\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:33
+# Referenced at C:\Users\sandeep\AndroidStudioProjects\driver-drowsiness-alertapp\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:33
 -keep class android.support.multidex.MultiDexApplication { <init>(); }
